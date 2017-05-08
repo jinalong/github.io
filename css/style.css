@@ -180,7 +180,8 @@
 	
 	section.contactpage {
 		text-align: center;
-		font-size: 14pt;
+		/*font-size: 14pt;*/
+		font-size: 110%;
 	}
 
 	header p {
@@ -218,7 +219,8 @@
 	}
 
 		header.major h2 {
-			font-size: 2em;
+			/*font-size: 2em;*/
+			font-size: 200%;
 		}
 
 		header.major h2 + p {
